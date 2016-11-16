@@ -22,6 +22,8 @@ or `chmod +x bsps.sh` in order to allow direct execution:
 ./bsps.sh [args]
 ```
 
+You can also use `bsps` instead of `bsps.sh`. They are really the same.
+
 ## Use #
 
 By default, you will get a 16 character password that contains lowercase
